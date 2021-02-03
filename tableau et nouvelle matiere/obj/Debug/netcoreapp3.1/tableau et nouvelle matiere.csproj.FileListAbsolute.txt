@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\bin\Debug\netcoreapp3.1\tableau et nouvelle matiere.exe
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\bin\Debug\netcoreapp3.1\tableau et nouvelle matiere.deps.json
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\bin\Debug\netcoreapp3.1\tableau et nouvelle matiere.runtimeconfig.json
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\bin\Debug\netcoreapp3.1\tableau et nouvelle matiere.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\bin\Debug\netcoreapp3.1\tableau et nouvelle matiere.dll
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\bin\Debug\netcoreapp3.1\tableau et nouvelle matiere.pdb
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\obj\Debug\netcoreapp3.1\tableau et nouvelle matiere.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\obj\Debug\netcoreapp3.1\tableau et nouvelle matiere.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\obj\Debug\netcoreapp3.1\tableau et nouvelle matiere.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\obj\Debug\netcoreapp3.1\tableau et nouvelle matiere.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\obj\Debug\netcoreapp3.1\tableau et nouvelle matiere.dll
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\obj\Debug\netcoreapp3.1\tableau et nouvelle matiere.pdb
+C:\Users\nicol\OneDrive\Desktop\SESSION HIVER 2020\Poo\POOcours\tableau et nouvelle matiere\obj\Debug\netcoreapp3.1\tableau et nouvelle matiere.genruntimeconfig.cache
